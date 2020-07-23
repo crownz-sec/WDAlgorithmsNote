@@ -3,7 +3,10 @@
 #include<string.h>
 #include<vector>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 6dd9bdd... 更新6-2，6-3
 =======
 >>>>>>> parent of 6dd9bdd... 更新6-2，6-3
 using namespace std;
